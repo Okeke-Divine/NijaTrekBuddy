@@ -1,0 +1,1 @@
+<script type="text/javascript" src="/assets/js/ntb.js?r=<?php echo $static_cache_phrase; ?>"></script>

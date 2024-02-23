@@ -1,0 +1,9 @@
+RewriteEngine On
+
+
+RewriteRule ^~page-home pages/home.php
+RewriteRule ^~page-search pages/search.php
+RewriteRule ^~page-discover pages/discover.php
+RewriteRule ^~page-profile pages/profile.php
+RewriteRule ^~page-settings pages/settings.php
+RewriteRule ^~page-create pages/create.php

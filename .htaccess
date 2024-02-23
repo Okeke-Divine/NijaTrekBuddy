@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^~login-frame /frames/login.php
+RewriteRule ^logout logout.php
